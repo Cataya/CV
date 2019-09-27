@@ -3,7 +3,7 @@ body {
 }
 H3 {
 	color: #00008B;
-	text-align: center;
+	text-align: Left;
 }
 .esittely-box-container {
   position: absolute;
@@ -11,25 +11,38 @@ H3 {
   margin-left: 320px;
   padding-left: 10px;
   padding-right: 10px;
-  width: 320px;
+  width: 300px;
   height: 300px;
   padding-top: 20px;
   text-align: left;
+  text-color: #191970;
   background-color: #87CEFA;
 }
 
-.esittely {
-	color: #191970;
-
-.tyopaikka {
-  	color:black;
+.tyopaikka-box-container {
+  position: absolute;
+  margin-top: 0px;
+  margin-left: 0px;
+  padding-left: 10px;
+  padding-right: 10px;
+  width: 620px;
+  height: 1100px;
+  padding-top: 20px;
+  text-align: left;
+  text-color: #191970;
+  background-color: #87CEFA;
 }
-
-.tehtava {
-	color: blue;
-}
-
-.kuvaus {
-	color:green;
+.koulutus-box-container {
+  position: absolute;
+  margin-top:1125px;
+  margin-left: 0px;
+  padding-left: 10px;
+  padding-right: 10px;
+  width: 620px;
+  height: 650px;
+  padding-top: 20px;
+  text-align: left;
+  text-color: #191970;
+  background-color: #87CEFA;
 }
 
